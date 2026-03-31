@@ -49,4 +49,4 @@ Dev tools      → Claude Code (daily driver), Cursor, Git, Playwright
 
 ---
 
-*I work US PST hours from India. Daily Claude Code user. Open to AI engineering and automation roles.*
+*I work US PST hours from India. Daily Claude Code user.*
