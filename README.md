@@ -2,7 +2,7 @@
 
 **AI Engineer & Automation Specialist** building production systems that connect AI, CRMs, and operational workflows into reliable infrastructure.
 
-Currently: **Senior AI Engineer** at CustomAI Studio | **Founder** at DYOTA AI
+Currently: **Senior AI Engineer** at CustomAI Studio | **Founder & AI Solution Engineer** 
 
 ---
 
