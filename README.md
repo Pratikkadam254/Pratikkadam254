@@ -46,7 +46,6 @@ Dev tools      → Claude Code (daily driver), Cursor, Git, Playwright
 - 🔗 [LinkedIn](https://linkedin.com/in/pratik-kadam-pk) — 2,800+ followers
 - 🔗 [X / Twitter](https://x.com/PratikKadam_) — 2,100+ followers, 2.8M+ impressions
 - 🌐 [pratikkadam.me](https://pratikkadam.me)
-- 📧 pratikkadam2540@gmail.com
 
 ---
 
