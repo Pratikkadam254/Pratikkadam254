@@ -18,9 +18,9 @@
 
 ---
 
-Building production systems that connect AI, CRMs, and operational workflows into reliable infrastructure. Not prototypes — systems that run real businesses.
+Building production systems that connect AI, CRMs, and operational workflows into reliable infrastructure. Systems that run real businesses.
 
-**Currently:** Senior AI Engineer at **CustomAI Studio** (promoted in 6 months) | Founder at **DYOTA AI**
+**Currently:** Senior AI Engineer at **CustomAI Studio** (promoted in 6 months) | Founder and AI Solution Engineer
 
 ---
 
@@ -32,7 +32,7 @@ Building production systems that connect AI, CRMs, and operational workflows int
 🧩 Custom MCP Servers       Third-party APIs as structured tool interfaces for AI agents
 🧠 Agent Harness            Self-optimizing prompt systems based on real-world performance
 ⚙️ Operational Automation   Post-meeting KPIs, leadership reports, onboarding workflows
-🚀 AI SaaS Products         crdible.io | ACQ AI Tools Hub (VSL Generator + Business Context Creator)
+🚀 AI SaaS Products         crdible.io | ACQ AI Tools Hub (Business Context Creator + 12 AI Assests) | AI Appraisal Platform
 ```
 
 ---
@@ -86,11 +86,10 @@ Building production systems that connect AI, CRMs, and operational workflows int
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [**ACQ AI Tools Hub**](https://acq-ai-tools.lovable.app) | VSL Generator + Business Context Creator — solves context collapse in AI workflows | React, TS, Supabase, Clerk |
+| [**ACQ AI Tools Hub**](https://acq-ai-tools.lovable.app) | Business Context Creator — solves context collapse in AI workflows | React, TS, Supabase, Clerk |
 | [**Alex-Mentor-Knowledgebase**](https://github.com/Pratikkadam254/Alex-Mentor-Knowledgebase) | AI business advisor agent for scaling decisions — knowledge base + retrieval | Claude API, Embeddings |
 | [**LinkedInOutreach**](https://github.com/Pratikkadam254/LinkedInOutreach) | Sales Navigator → Apify enrichment → personalized messaging. 20% acceptance rate | n8n, Unipile, TypeScript |
 | [**ProspectIQ**](https://github.com/Pratikkadam254/ProspectIQ) | AI-powered lead generation with automated enrichment and scoring | Python, n8n, Supabase |
-| [**One-Click-GTM-Claude-Code**](https://github.com/Pratikkadam254/One-Click-GTM-Claude-Code) | One-click GTM automation powered by Claude Code | Claude Code, n8n |
 
 ---
 
