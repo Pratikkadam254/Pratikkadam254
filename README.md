@@ -33,7 +33,6 @@ Dev tools      → Claude Code (daily driver), Cursor, Git, Playwright
 | [**Alex-Mentor-Knowledgebase**](https://github.com/Pratikkadam254/Alex-Mentor-Knowledgebase) | AI business advisor agent built on scaling frameworks — knowledge base + retrieval for business decisions |
 | [**LinkedInOutreach**](https://github.com/Pratikkadam254/LinkedInOutreach) | Automated LinkedIn outreach: Sales Navigator → Apify enrichment → personalized messaging via Unipile + n8n |
 | [**ProspectIQ**](https://github.com/Pratikkadam254/ProspectIQ) | AI-powered lead generation with automated enrichment and scoring |
-| [**One-Click-GTM-Claude-Code**](https://github.com/Pratikkadam254/One-Click-GTM-Claude-Code) | One-click GTM automation using Claude Code |
 | [**ACQ AI Tools Hub**](https://acq-ai-tools.lovable.app) | VSL Generator + Business Context Creator — solves context collapse in AI-assisted workflows |
 
 ### Currently working on
